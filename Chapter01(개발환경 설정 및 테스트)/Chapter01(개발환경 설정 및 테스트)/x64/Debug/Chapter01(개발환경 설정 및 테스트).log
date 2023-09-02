@@ -1,0 +1,3 @@
+﻿  exam01.cpp
+C:\Users\lunar\문서\cpp\Chapter01(개발환경 설정 및 테스트)\Chapter01(개발환경 설정 및 테스트)\exam01.cpp(1,1): warning C4828: 파일에 0xa8c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+  Chapter01(개발환경 설정 및 테스트).vcxproj -> C:\Users\lunar\문서\cpp\Chapter01(개발환경 설정 및 테스트)\x64\Debug\Chapter01(개발환경 설정 및 테스트).exe
