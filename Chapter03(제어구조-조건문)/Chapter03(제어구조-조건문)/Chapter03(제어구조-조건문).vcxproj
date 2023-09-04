@@ -26,6 +26,8 @@
     <ClCompile Include="exam05.cpp" />
     <ClCompile Include="exam06.cpp" />
     <ClCompile Include="exam07.cpp" />
+    <ClCompile Include="test-1.cpp" />
+    <ClCompile Include="test-2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
